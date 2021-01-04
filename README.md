@@ -5,15 +5,12 @@ So you would first need to create two CSV files. The first should contain proble
 The other should contain problem data from each company i.e, Google, Facebook, Apple, etc, organized based on frequency again. 
 To acquire information for the second CSV you would need a Leetcode subscription. 
 
-CSV File 1 (Format):
+### Input CSV File 1 (Format):
+![](img/Problem_Set_CSV_Format.png)
 
+### Input CSV File 2 (Format):
+![](img/Topic_Set_CSV_Format.png)
 
-CSV File 2 (Format):
-
-
-LeetCode.output():
-
-
+# Run the program:
+### LeetCode.output():
 Will create the CSV output. (Make sure to update self.projectSource to point to a preferred path on your local machine)
-
-
